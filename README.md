@@ -4,7 +4,7 @@
 
 iPad product page clone development.
 
-[DEMO](https://transcendent-naiad-733465.netlify.app/)
+[DEMO](https://magenta-bavarois-3b25c0.netlify.app)
 
 ![Screenshots](./images/screenshot1.jpg)
 
