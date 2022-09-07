@@ -4,7 +4,7 @@
 
 iPad product page clone development.
 
-[DEMO](https://magenta-bavarois-3b25c0.netlify.app)
+[DEMO](https://fascinating-blancmange-dfe59f.netlify.app)
 
 ![Screenshots](./images/screenshot1.jpg)
 
